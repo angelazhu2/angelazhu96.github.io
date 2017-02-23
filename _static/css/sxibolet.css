@@ -1,0 +1,29 @@
+body {
+  margin-bottom: 2em;
+  max-width: 1150px; }
+
+h1.title:before {
+  content: '\203B\20';
+  color: #bbb; }
+
+dd {
+  padding: 2px; }
+
+.underline {
+  border-bottom: 1px solid black; }
+
+p.sidebar-title {
+  display: none;
+  font-size: inherit;
+  font-weight: inherit;
+  font-family: inherit; }
+
+div.sidebar {
+  width: 30%;
+  border: 1px dashed #ddd;
+  background: #fff; }
+
+.strike {
+  text-decoration: line-through; }
+
+/*# sourceMappingURL=sxibolet.css.map */
